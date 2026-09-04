@@ -1,3 +1,7 @@
-# My GitHub Stats
+# Kaya's GitHub Stats
 
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Hakoyu)](https://github.com/stats-organization/github-stats-extended)
+[![Kaya's GitHub stats](https://github-stats-extended.vercel.app/api?username=Hakoyu)](https://github.com/stats-organization/github-stats-extended)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Hakoyu&langs_count=4)
+
+[![Alan's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=Hakoyu&langs_count=6)](https://wakatime.com/@ae02f33c-1032-4f3d-b232-dc12332f7451))
